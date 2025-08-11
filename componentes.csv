@@ -1,5 +1,5 @@
-ID_Componente,Nombre_Componente,ID_Elemento,Nombre_Elemento,Tipo_Visual,Texto_Principal,Placeholder_Nota
-1,Accordion,101,Título del Accordion,Button,Button,"Título del botón y estado: ""aria-expanded"""
+ID_Componente,Nombre_Componente,ID_Elemento,Nombre_Elemento,Tipo_Visual,Texto_Principal,Placeholder_Nota,URL_Imagen
+1,Accordion,101,Título del Accordion,Button,Button,"Título del botón y estado: ""aria-expanded""",https://github.com/mike-meli/iathon/blob/main/accordion.png?raw=true
 1,Accordion,102,Ícono,Comment,Comment,"Se ignora el icono"
 1,Accordion,103,Contenido del Accordion,Comment,Comment,"El contenido se colapsa/expande"
 1,Accordion,104,Estado Expandido,Button,Button,"State: Expanded"
